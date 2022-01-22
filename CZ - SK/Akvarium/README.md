@@ -1,6 +1,6 @@
 # Aplikace
 ## Použití
-Program je vytvořený v jazyku Python - tzn. řed použitím je potřeba jej nainstalovat. Program je vytvořený ke kontrole jednobarevného LED pásku sloužícího jako osvětlení akvária.
+Program je vytvořený v jazyku Python - tzn. před použitím je potřeba jej nainstalovat. Program kontroluje jednobarevný LED pásek, který slouží jako osvětlení akvária.
 
 
 ## Funkce
