@@ -14,17 +14,17 @@ Program je vytvořený v jazyku Python - tzn. řed použitím je potřeba Python
 
 ## Před prvním spuštěním
 **Nastav souboru chmod:**
-chmod a+x akvarium.py
+- chmod a+x akvarium.py
 
 **Nastav v nastavení:**
-Preference -> Rpi configuration -> interfaces -> 1-Wire Enabled
+- Preference -> Rpi configuration -> interfaces -> 1-Wire Enabled
 
 **Spusť pigpiod**
-Do terminálu napiš příkaz: **sudo pigpiod**
+- Do terminálu napiš příkaz: **sudo pigpiod**
 
 ## Po každém restartování RPi
 **Po každém restartování Rpi napiš příkaz do terminálu:**
-sudo pigpiod
+- sudo pigpiod
 
 ## Nastavení aplikace - array data
 ```
