@@ -8,6 +8,7 @@ The program is created in Python language - ie. it needs to be installed before 
 - Smooth switching off and switching on the light (Fade effect).
 - Adjusting the light intensity.
 - Save the date of the last water change / aquarium cleaning.
+- All settings is directly in the program.
 
 ## Necessary libraries
 1. **Pigpio** - LED control library (https://abyz.me.uk/rpi/pigpio/download.html)
@@ -21,11 +22,16 @@ The program is created in Python language - ie. it needs to be installed before 
 - Preference -> Rpi configuration -> interfaces -> 1-Wire Enabled
 
 **Run pigpiod**
-- Write a command to the terminal: **sudo pigpiod**
+- Write a command to the terminal: 
+```
+sudo pigpiod
+```
 
 ## After each RPi restart
 **After each restart of Rpi, write a command to the terminal:**
-- sudo pigpiod
+```
+sudo pigpiod
+```
 
 ## Application settings - array data
 ```
