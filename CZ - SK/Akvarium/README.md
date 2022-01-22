@@ -42,3 +42,5 @@ voda vyměněna		| datum
 ```
 # Zapojení LED světla
 ![Aplikace](../../img_description/APP.jpg)
+![Zapojení](../../img_description/Setup.jpg)
+![Světlo](../../img_description/AQ.jpg)
