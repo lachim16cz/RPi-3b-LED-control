@@ -10,7 +10,7 @@ Program je vytvořený v jazyku Python - tzn. řed použitím je potřeba jej na
 - Uložení data poslední výměny vody / čištění akvária.
 
 ## Potřebné knihovny
-1. **Pigpio** - knihovna určená k ovládání LED (https://abyz.me.uk/rpi/pigpio/download.html)
+1. **Pigpio** - Knihovna určená k ovládání LED (https://abyz.me.uk/rpi/pigpio/download.html)
 2. **Guizero** - Knihovna určená k vytvoření okna aplikace (https://lawsie.github.io/guizero/)
 
 ## Před prvním spuštěním
