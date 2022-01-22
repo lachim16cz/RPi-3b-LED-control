@@ -1,3 +1,4 @@
+# Aplikace
 ## Použití
 Program je vytvořený v jazyku Python - tzn. řed použitím je potřeba jej nainstalovat. Program je vytvořený ke kontrole jednobarevného LED pásku sloužícího jako osvětlení akvária.
 
@@ -39,3 +40,5 @@ délka svícení		| 0 - 23 (hodiny)
 voda vyměněna		| datum
 ]
 ```
+# Zapojení LED světla
+./img_description/APP.jpg
