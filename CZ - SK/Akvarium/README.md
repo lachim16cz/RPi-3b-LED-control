@@ -8,6 +8,7 @@ Program je vytvořený v jazyku Python - tzn. řed použitím je potřeba jej na
 - Plynulé zhasínání a rožínání světla (Fade effect).
 - Nastavení intenzity svícení.
 - Uložení data poslední výměny vody / čištění akvária.
+- Veškeré nastavení je přímo v programu.
 
 ## Potřebné knihovny
 1. **Pigpio** - Knihovna určená k ovládání LED (https://abyz.me.uk/rpi/pigpio/download.html)
@@ -21,11 +22,16 @@ Program je vytvořený v jazyku Python - tzn. řed použitím je potřeba jej na
 - Preference -> Rpi configuration -> interfaces -> 1-Wire Enabled
 
 **Spusť pigpiod**
-- Do terminálu napiš příkaz: **sudo pigpiod**
+- Do terminálu napiš příkaz:
+```
+sudo pigpiod
+```
 
 ## Po každém restartování RPi
 **Po každém restartování Rpi napiš příkaz do terminálu:**
-- sudo pigpiod
+```
+sudo pigpiod
+```
 
 ## Nastavení aplikace - array data
 ```
