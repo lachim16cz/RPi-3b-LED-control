@@ -1,0 +1,12 @@
+Example of array saved data.
+
+saved_data [
+Automatic light		| 1 / 0
+Fade effect		| 1 / 0
+Dimming effect time	| 3 - 3600 (seconds)
+Light brightness	| 0 - 255
+Start of lighting up	| 0 - 24 (hours)
+Start of lighting up	| 0 - 59 (minutes)
+Lighting length		| 0 - 23 (hours)
+Water change date	| date
+]
