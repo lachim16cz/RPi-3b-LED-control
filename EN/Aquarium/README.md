@@ -1,3 +1,4 @@
+# Application
 ## Description
 The program is created in Python language - ie. it needs to be installed before use. The program is created to control a one-color LED strip serving as aquarium lighting.
 
@@ -39,3 +40,21 @@ Lighting length		| 0 - 23 (hours)
 Water change date	| date
 ]
 ```
+# LED light connection
+## Result
+![Application](../../img_description/APP.jpg)
+![Connection](../../img_description/Setup.jpg)
+![LED Light](../../img_description/AQ.jpg)
+## Wiring diagram
+![Wiring diagram](../../img_description/Diagram.png)
+## Wiring on photo
+![Wiring on photo](../../img_description/connect.jpg)
+## Used components for controling LED strips
+###### Breadboard
+![Breadboard](../../img_description/re1.jpg)
+###### 2 pin clamp 2.54mm
+![2 pin clamp 2.54mm](../../img_description/re2.jpg)
+###### IRLZ34N (Unipolar transistor, N channel, THT, 55V, 30A, 68W, TO220AB IRLZ34N)
+![IRLZ34N](../../img_description/re4.jpg)
+###### Cables
+![Cables](../../img_description/re3.jpg)
