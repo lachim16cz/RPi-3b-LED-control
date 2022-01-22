@@ -41,6 +41,21 @@ voda vyměněna		| datum
 ]
 ```
 # Zapojení LED světla
+## Výsledek
 ![Aplikace](../../img_description/APP.jpg)
 ![Zapojení](../../img_description/Setup.jpg)
 ![Světlo](../../img_description/AQ.jpg)
+## Diagram zapojení
+![Diagram zapojení](../../img_description/Diagram.png)
+## Zapojení na fotce
+![Zapojení - foto](../../img_description/connect.jpg)
+## Použité součástky ke kontrole LED pásků
+###### Nepájivé pole
+![Nepájivé pole](../../img_description/re1.jpg)
+###### Svorka na DPS 2 piny 2.54mm
+![Svorka na DPS 2 piny 2.54mm](../../img_description/re2.jpg)
+###### IRLZ34N (Unipolární tranzistor, N kanál, THT, 55V, 30A, 68W, TO220AB IRLZ34N)
+![IRLZ34N](../../img_description/re4.jpg)
+###### Kabely
+![Kabely](../../img_description/re3.jpg)
+
